@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
