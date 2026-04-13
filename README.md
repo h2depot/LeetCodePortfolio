@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
