@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0228-summary-ranges) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
@@ -54,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
@@ -72,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
