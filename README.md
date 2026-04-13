@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0228-summary-ranges) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
