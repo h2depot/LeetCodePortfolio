@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
