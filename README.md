@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -152,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
