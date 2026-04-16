@@ -7,7 +7,6 @@ class Solution(object):
         xor = 0
         for i in range(len(nums)):
             xor = xor ^ nums[i]
-            print(xor)
         return xor
 
         
