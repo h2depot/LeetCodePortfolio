@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
 ## String Matching
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
