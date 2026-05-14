@@ -2,14 +2,16 @@ import java.util.*;
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-      Map<Integer, Integer> dict = new HashMap<>();
-      for(int i=0; i < numbers.length; i++){
-        int diff = target - numbers[i];
-        if(!dict.containsKey(numbers[i])){
-            dict.put(diff, i+1);
+      int left = 0;
+      int right = numbers.length - 1;
+      while(left < right){
+        int sum = numbers[left] + numbers[right];
+        if(sum == target){
+            return new int[] {left+1, right+1};
+        }else if(sum < target){
+            left++;
         }else{
-            int[] ans = {dict.get(numbers[i]), i+1};
-            return ans;
+            right--;
         }
       }
       return null;
