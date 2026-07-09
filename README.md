@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
