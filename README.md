@@ -1,8 +1,8 @@
 # LeetCodePortfolio
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+In this Repository, I am recording my answer source code for LeetCode.com. 
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Solved Problems
 ## Array
 |  |
 | ------- |
