@@ -1,5 +1,51 @@
-# LeetCodePortfolio
-In this Repository, I am recording my answer source code for LeetCode.com. 
+# LeetCodePortfolio by HalloweenHead!
+
+LeetCodeで解いた問題の解答コードを記録するリポジトリです。
+
+主にPythonを使用し、アルゴリズムとデータ構造の基礎を身に着ける事、開発でバイブコーディングに依存せず自力で問題を分析・実装する力を身につけることを目的としています。
+
+提出した解答コードは、GitHub拡張機能の **LeetHub v2** を利用して自動的に追加・管理しています。
+
+## 学習目的
+
+### Pythonによる実装力の向上
+
+Pythonの文法や標準機能、データ構造を使いこなし、問題に応じて適切なコードを書ける力を身につけます。
+
+また、生成AIによるバイブコーディングだけに依存せず、自分自身で処理の流れを考え、アルゴリズムを設計・実装・修正できる能力の向上を目指しています。
+
+### アルゴリズムとデータ構造の習得
+
+問題演習を通して、以下のような基礎的なアルゴリズムとデータ構造への理解を深めます。
+
+* 配列・文字列
+* ハッシュテーブル・集合
+* スタック・キュー
+* 連結リスト
+* 二分探索
+* Two Pointers
+* Sliding Window
+* 木・グラフ
+* 深さ優先探索・幅優先探索
+* ヒープ
+* Greedy
+* Dynamic Programming
+
+## 目標
+
+* LeetCodeのMedium問題に対して、解法の方針を素早く立てて実装できるようになる
+* 時間計算量と空間計算量を意識したコードを書けるようになる
+* LeetCode Contestへ継続的に参加する
+* Contest Ratingを向上させ、**Knight**ランクへ到達する
+
+## 使用言語
+
+* Python
+* Java(一部問題のみ)
+
+## 解答一覧
+
+以下の問題一覧と解答コードは、LeetHub v2によって自動的に追加されています。
 
 <!---LeetCode Topics Start-->
 # Solved Problems
