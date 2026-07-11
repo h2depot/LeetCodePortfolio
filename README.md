@@ -48,7 +48,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 以下の問題一覧と解答コードは、LeetHub v2によって自動的に追加されています。
 
 <!---LeetCode Topics Start-->
-# Solved Problems
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -65,6 +65,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0054-spiral-matrix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0026-remove-duplicates-from-sorted-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0141-linked-list-cycle) |
