@@ -60,6 +60,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0027-remove-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0054-spiral-matrix) |
@@ -164,6 +165,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -283,6 +285,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Matrix
