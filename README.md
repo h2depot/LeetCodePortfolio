@@ -80,6 +80,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0209-minimum-size-subarray-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0088-merge-sorted-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -295,4 +297,8 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0048-rotate-image](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0073-set-matrix-zeroes) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
