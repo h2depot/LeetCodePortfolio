@@ -81,6 +81,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
@@ -117,6 +119,7 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 | [0070-climbing-stairs](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,4 +304,12 @@ Pythonの文法や標準機能、データ構造を使いこなし、問題に�
 |  |
 | ------- |
 | [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
