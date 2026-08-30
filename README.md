@@ -1,51 +1,48 @@
 # LeetCodePortfolio by HalloweenHead!
 
-LeetCodeで解いた問題の解答コードを記録するリポジトリです。
+This repository contains my solutions to LeetCode problems, primarily written in Python.
 
-主にPythonを使用し、アルゴリズムとデータ構造の基礎を身に着ける事、開発でバイブコーディングに依存せず自力で問題を分析・実装する力を身につけることを目的としています。
+The goal is to strengthen my understanding of algorithms and data structures while developing the ability to analyze and implement solutions independently, without relying solely on AI-assisted vibe coding.
 
-提出した解答コードは、GitHub拡張機能の **LeetHub v2** を利用して自動的に追加・管理しています。
+Submitted solutions are automatically added and managed using the **LeetHub v2** GitHub extension.
 
-## 学習目的
+## Learning Objectives
 
-### Pythonによる実装力の向上
+### Improve Python Skills
 
-Pythonの文法や標準機能、データ構造を使いこなし、問題に応じて適切なコードを書ける力を身につけます。
+Develop practical proficiency with Python syntax, standard features, and built-in data structures, while improving my ability to design, implement, debug, and refine algorithms independently.
 
-また、生成AIによるバイブコーディングだけに依存せず、自分自身で処理の流れを考え、アルゴリズムを設計・実装・修正できる能力の向上を目指しています。
+### Learn Algorithms and Data Structures
 
-### アルゴリズムとデータ構造の習得
+Topics covered include:
 
-問題演習を通して、以下のような基礎的なアルゴリズムとデータ構造への理解を深めます。
+- Arrays and strings
+- Hash tables and sets
+- Stacks and queues
+- Linked lists
+- Binary search
+- Two pointers and sliding windows
+- Trees and graphs
+- Depth-first and breadth-first search
+- Heaps
+- Greedy algorithms
+- Dynamic programming
 
-* 配列・文字列
-* ハッシュテーブル・集合
-* スタック・キュー
-* 連結リスト
-* 二分探索
-* Two Pointers
-* Sliding Window
-* 木・グラフ
-* 深さ優先探索・幅優先探索
-* ヒープ
-* Greedy
-* Dynamic Programming
+## Goals
 
-## 目標
+- Quickly identify and implement solutions to LeetCode Medium problems
+- Write code with time and space complexity in mind
+- Participate consistently in LeetCode contests
+- Improve my contest rating and reach the **Knight** rank
 
-* LeetCodeのMedium問題に対して、解法の方針を素早く立てて実装できるようになる
-* 時間計算量と空間計算量を意識したコードを書けるようになる
-* LeetCode Contestへ継続的に参加する
-* Contest Ratingを向上させ、**Knight**ランクへ到達する
+## Languages
 
-## 使用言語
+- Python
+- Java (for selected problems)
 
-* Python
-* Java(一部問題のみ)
+## Solutions
 
-## 解答一覧
-
-以下の問題一覧と解答コードは、LeetHub v2によって自動的に追加されています。
+The problem list and solution files below are automatically generated and maintained by LeetHub v2.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
