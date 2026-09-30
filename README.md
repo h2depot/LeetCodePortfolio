@@ -103,6 +103,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
+| [0763-partition-labels](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +142,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0189-rotate-array](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0290-word-pattern](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -308,6 +311,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0763-partition-labels) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Matrix
 |  |
