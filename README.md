@@ -82,6 +82,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0003-longest-substring-without-repeating-characters](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0219-contains-duplicate-ii) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +171,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0242-valid-anagram](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Counting
 |  |
 | ------- |
@@ -219,6 +222,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0222-count-complete-tree-nodes) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +294,7 @@ The problem list and solution files below are automatically generated and mainta
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0238-product-of-array-except-self) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Union-Find
 |  |
 | ------- |
@@ -303,6 +308,7 @@ The problem list and solution files below are automatically generated and mainta
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [3413-maximum-coins-from-k-consecutive-bags](https://github.com/motohisa1342/LeetCodePortfolio/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Matrix
 |  |
 | ------- |
